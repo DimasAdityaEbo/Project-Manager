@@ -1,0 +1,6 @@
+{
+  "name": "ProyekKu",
+  "description": "Aplikasi manajemen proyek dan pemantauan tenggat waktu serta progres tugas secara efisien.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
